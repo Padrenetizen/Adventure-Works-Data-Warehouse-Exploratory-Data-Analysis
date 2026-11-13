@@ -1,7 +1,11 @@
 Title: Adventure Works Data Warehouse & Exploratory Data Analysis
+
 Project Overview: The aim of this project is to build a complete and fully operational data warehouse and to also perform EDA to understand the data.
+
 Architecture: Bronze → Silver → Gold.
+
 Tools: SQL Server 2022, SSMS, SQL, Notes, Draw.io.
+
 Data sources: Adventure works datasets used includes;
 dim_account
 dim_currency
